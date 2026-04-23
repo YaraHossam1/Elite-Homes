@@ -326,6 +326,10 @@ p {
   background-color: #f9f4ff;
 }
 
+.navbar-toggler:hover {
+  color: var(--main-color);
+}
+
 /*****~ End Navbar *****/
 
 /*****~ Start Hero section *****/
