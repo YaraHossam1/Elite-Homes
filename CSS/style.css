@@ -25,6 +25,11 @@ body {
   font-family: sans-serif;
 }
 
+body::selection {
+  background-color: #a684ff;
+  color: white;
+}
+
 a {
   color: inherit;
 }
